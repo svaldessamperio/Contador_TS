@@ -1,0 +1,6 @@
+module Pods_Contador_TS_Contador_TSTests {
+  umbrella header "Pods-Contador_TS-Contador_TSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
