@@ -13,7 +13,7 @@ export default function FlexScreen() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        flexDirection:'column',
+        flexDirection:'row',
         justifyContent: 'flex-start',
         alignItems: 'flex-start',
         backgroundColor: '#39B2E6',
