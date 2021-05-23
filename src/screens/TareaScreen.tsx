@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#28425b',
     },
     cajaMorada: {
+        top: 100,
         width: 100,
         height: 100,
         borderWidth: 10,
