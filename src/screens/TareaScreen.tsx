@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#7b07bf',
     },
     cajaNaranja: {
+        left: 100,
         width: 100,
         height: 100,
         borderWidth: 10,
