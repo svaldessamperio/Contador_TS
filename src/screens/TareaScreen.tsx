@@ -16,24 +16,25 @@ export default class TareaScreen extends Component {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        flexDirection: 'row',
+        flexDirection: 'column',
         justifyContent: 'space-between',
+        alignItems: 'stretch',
         backgroundColor: '#28425b',
     },
     cajaMorada: {
-        width: 100,
+        flex: 1,
         borderWidth: 10,
         borderColor: 'white',
         backgroundColor: '#7b07bf',
     },
     cajaNaranja: {
-        width: 100,
+        flex: 1,
         borderWidth: 10,
         borderColor: 'white',
         backgroundColor: '#f29c13',
     },
     cajaAzul: {
-        width: 100,
+        flex: 2,
         borderWidth: 10,
         borderColor: 'white',
         backgroundColor: '#2f91ed',
